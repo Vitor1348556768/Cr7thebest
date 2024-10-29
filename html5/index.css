@@ -48,12 +48,3 @@ footer {
     border: none;
     border-radius: 9px;
 }
-
-.container {
-    padding: 0px 50px;
-}
-
-
-nav a:hover {
-    color: #ffffff;
-}
